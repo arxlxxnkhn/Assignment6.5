@@ -17,7 +17,7 @@
 
         <img src="profile.jpg" alt="Profile photo" class="profile-image">
 
-        <h1>Atul Kumar Pal</h1>
+        <h1>Arsalaan Ali Khan</h1>
         <h3>B.Tech CSE Student</h3>
 
         <p>I am learning web development and programming.</p>
